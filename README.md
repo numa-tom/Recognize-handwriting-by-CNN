@@ -1,1 +1,2 @@
-# Recognize-handwriting-by-CNN
+# ゼロから作るディープラーニングの7章CNNの実装  
+### CNNによる手書き文字認識をCNNによって学習しました。
